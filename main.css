@@ -114,6 +114,7 @@ body {
 }
 #cssmenu ul {
   height: 59px;
+  background-color: blue;
 }
 
 #cssmenu ul li {
