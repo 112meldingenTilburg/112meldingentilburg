@@ -62,6 +62,7 @@ body {
   width: auto;
   height: 59px;
   padding-bottom: 4px;
+  background-color: #0f71ba;
 }
 #cssmenu.align-right {
   float: right;
