@@ -13,6 +13,11 @@
   font-family: Capriola, Helvetica, sans-serif;
 }
 
+#cssmenu ul {
+    height: 59px;
+    background-color: #555555;
+}
+
 body {
  background-image: url(achtergrond.jpg);
  background-size: 2048px 1152px;
@@ -83,6 +88,7 @@ body {
   width: auto;
   height: 59px;
   padding-bottom: 4px;
+  background-color: #0f71ba;
 }
 #cssmenu.align-right {
   float: right;
