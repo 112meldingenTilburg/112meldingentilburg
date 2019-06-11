@@ -142,6 +142,26 @@ body {
   z-index: 4;
   background: url('images/bg.png');
 }
+
+#melding1 {
+   font-size: 30px;
+   margin-top: 100px;
+   font-family: arial, Helvetica, sans-serif;
+   color: #080768;
+
+}
+
+#HOE {
+ border: dashed;
+  font-family: arial, Helvetica, sans-serif;
+  color: #080768;
+  margin-top: -150px;
+  margin-left: 1100px;
+  margin-right: 440px;
+  font-weight: bold;
+
+}
+
 #cssmenu ul {
   height: 59px;
   background-color: #555555;
